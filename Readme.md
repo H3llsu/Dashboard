@@ -1,1 +1,1 @@
-**Projeto de aprender a  criar um dashboard com HTML e CSS**
+**Projeto para aprender a  criar um dashboard com HTML e CSS**
